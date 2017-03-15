@@ -9,6 +9,7 @@
         "psr-0": {"Ovh\\Sms\\": "src/"},
         "psr-4": {"Ovh\\Sms\\": "src/"}
     },
+    "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "4.*",
         "phpdocumentor/phpdocumentor": "2.*",
